@@ -1,3 +1,4 @@
+I have finished reading this. 
 # :wave: The Basics of Git and GitHub 
 
 ## 🤓 Course overview and learning outcomes 
